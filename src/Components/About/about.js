@@ -28,7 +28,7 @@ const About = () => {
                          className='icon'
                         />
                         <h3>Experience</h3>
-                        <p>Web Developer <br /> UI/UX Design <br /> CMS</p>
+                        <p>MERN stack <br /> React-Native <br /> UI/UX Design <br /> CMS</p>
                     </div>
                     <img 
                          src={Profile} 
@@ -42,21 +42,23 @@ const About = () => {
                          className='icon'
                         />
                         <h3>Education</h3>
-                        <p>B.sc. Information Systems Management<br /> BCI- cetificate completed technology and comunication
-                        <br />Cetificate completed English</p>
+                        <p>Bsc. Information Systems Management Rajarata University<br /> BCI Campus- cetificate completed technology and comunication
+                        <br />Cetificate completed English <br />University of Moratuwa-Cetificate completed Web development and Python </p>
                     </div>
                 </div>
                 <div className='text-container'>
                     <p>
-                    Learn how to build and deploy a responsive portfolio website from scratch using only vanilla
-                    plain HTML, CSS, and JavaScript. No Frameworks or React knowledge is needed 
-                    for this beginner-friendly easy tutorial.Learn how to build and deploy a responsive portfolio website from scratch using only vanilla
-                    plain HTML, CSS, and JavaScript. No Frameworks or React knowledge is needed 
-                    for this beginner-friendly easy tutorial.Learn how to build and deploy a responsive portfolio website from scratch using only vanilla
-                    plain HTML, CSS, and JavaScript. No Frameworks or React knowledge is needed 
-                    for this beginner-friendly easy tutorial.Learn how to build and deploy a responsive portfolio website from scratch using only vanilla
-                    plain HTML, CSS, and JavaScript. No Frameworks or React knowledge is needed 
-                    for this beginner-friendly easy tutorial.this beginner-friendly easy tutorial.friendly easy 
+                    Greetings! I'm Pasindu Karunarathna, a dedicated undergraduate student at Rajarata University of Sri Lanka, 
+                    pursuing a degree in Information Systems. 
+                    Endowed with a blend of responsibility and critical thinking, I thrive in the fast-paced realm of 
+                    web development, specializing particularly in front-end design. With proficiency in the MERN stack, 
+                    including React.js and React Native, I'm constantly honing my skills to stay at the forefront of 
+                    technological innovation. However, what truly sets me apart is my collaborative spirit and strong teamwork 
+                    abilities. I believe in the power of synergy, leveraging collective expertise to drive impactful results. 
+                    Whether it's crafting immersive digital experiences or exploring cutting-edge solutions, 
+                    I'm passionate about pushing boundaries and creating meaningful connections through technology. 
+                    Join me on this exhilarating journey as we embark on a quest to innovate,
+                     collaborate, and make a lasting impact in the digital landscape!
                     </p>
                 </div>
             </div>

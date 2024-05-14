@@ -36,10 +36,11 @@ const Profile = () => {
                 </button>
                 
                 <button className='btn btn-color-1'
-                onclick="window.location.href = '#contact'"
+                onClick={() => { window.location.href = './#contact'; }}
                 >
                     Contact Info
                 </button>
+
             </div>
             <div id='socials-container'>
                 <img src={linkedin} alt='linkedin'

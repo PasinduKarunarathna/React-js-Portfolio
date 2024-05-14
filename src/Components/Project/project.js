@@ -4,10 +4,14 @@ import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import './project.css'
 
-import p1 from '../Assets/p1.jpeg'
+import p1 from '../Assets/p1.png'
 import p2 from '../Assets/p2.png'
-import p3 from '../Assets/p3.jpeg'
+import p3 from '../Assets/p3.png'
 import p4 from '../Assets/p4.jpeg'
+import p5 from '../Assets/p5.jpeg'
+import p6 from '../Assets/p6.jpeg'
+import p7 from '../Assets/p7.png'
+import p8 from '../Assets/p8.png'
 import arrows from '../Assets/arrows.png'
 
 const Project = () => {
@@ -59,30 +63,58 @@ const Project = () => {
 }
 
 const data = [
+
     {
-        title: 'Portfolio',
-        img:p3,
-        discription:'this project is about 1',
+        title: 'NewsApp-Android',
+        img:p8,
+        discription:'React-Native - ongoing project',
     },
 
     {
-        title: 'Portfolio1',
+        title: 'Visit Sri-Lanka',
+        img:p3,
+        discription:'React js',
+    },
+
+    {
+        title: 'ToDo-Android App',
+        img:p7,
+        discription:'React-Native',
+    },
+
+    {
+        title: 'Portfolio Website',
+        img:p1,
+        discription:'React js',
+    },
+
+    {
+        title: 'digiwext.com',
         img:p2,
-        discription:'this project is about 2',
+        discription:'Premium Blogger template Customized Manually',
+    },
+
+    {
+        title: 'ToDo-List',
+        img:p6,
+        discription:'MERN stack',
     },
     
     {
-        title: 'Portfolio2',
-        img:p1,
-        discription:'this project is about 3',
+        title: 'University Counselling System',
+        img:p4,
+        discription:'mySQL, VsCode',
     },
 
     {
-        title: 'Portfolio3',
-        img:p4,
-        discription:'this project is about',
+        title: 'Login-Singnup',
+        img:p5,
+        discription:'React js',
     }
+    
 
+    
 
+    
 ]
 export default Project

@@ -103,7 +103,7 @@ const Experience = () => {
                              className='cheak_icon'
                              />
                              <div>
-                                <h3>HTML</h3>
+                                <h3>MERN stack</h3>
                                 <p>Experience</p>
                              </div>
                         </article>
@@ -115,7 +115,7 @@ const Experience = () => {
                              className='cheak_icon'
                              />
                              <div>
-                                <h3>Python</h3>
+                                <h3>Bootstrap</h3>
                                 <p>Experience</p>
                              </div>
                         </article>
@@ -127,7 +127,7 @@ const Experience = () => {
                              className='cheak_icon'
                              />
                              <div>
-                                <h3>CSS</h3>
+                                <h3>Tailwindcss</h3>
                                 <p>Experience</p>
                              </div>
                         </article>
@@ -151,7 +151,31 @@ const Experience = () => {
                              className='cheak_icon'
                              />
                              <div>
+                                <h3>Python</h3>
+                                <p>Experience</p>
+                             </div>
+                        </article>
+
+                        <article>
+                            <img
+                             src={cheack} 
+                             alt='cheack icon'
+                             className='cheak_icon'
+                             />
+                             <div>
                                 <h3>React js</h3>
+                                <p>Experience</p>
+                             </div>
+                        </article>
+
+                        <article>
+                            <img
+                             src={cheack} 
+                             alt='cheack icon'
+                             className='cheak_icon'
+                             />
+                             <div>
+                                <h3>React Native</h3>
                                 <p>Experience</p>
                              </div>
                         </article>

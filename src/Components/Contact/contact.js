@@ -16,7 +16,7 @@ const Contact = () => {
                 alt='Email icon'
                 className='icon contact-icon'
                 />
-                <p><a href='mailo:pasinduoshadha315@gmail.com'>@gmail.com</a></p>
+                <p><a href='mailo:pasinduoshadha315@gmail.com'>@gmail</a></p>
             </div>
 
             <div className='contact-info-container'>
@@ -25,7 +25,7 @@ const Contact = () => {
                 alt='Email icon'
                 className='icon contact-icon'
                 />
-                <p><a href='mailo:pasinduoshadha315@gmail.com'>Linkedin</a></p>
+                <p><a href='https://www.linkedin.com/in/pasindu-karunarathna/'>Linkedin</a></p>
             </div>
         </div>
     </section>

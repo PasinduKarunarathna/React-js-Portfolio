@@ -31,7 +31,9 @@
     bottom: 4rem;
 }
 
-
+.text-container1{
+    text-align: center;
+}
 .details-container{
     padding: 1.5rem;
     flex: 1;
