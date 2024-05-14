@@ -12,11 +12,11 @@ const Profile = () => {
       };
 
     const redirectToLinkedIn = () => {
-        window.open('https://linkedin.com/');
+        window.open('https://github.com/PasinduKarunarathna');
       };
     
       const redirectToGitHub = () => {
-        window.open('https://github.com/');
+        window.open('https://www.linkedin.com/in/pasindu-karunarathna/');
       };
 
   return (
@@ -36,7 +36,7 @@ const Profile = () => {
                 </button>
                 
                 <button className='btn btn-color-1'
-                onClick="location.href('./#contact')"
+                onclick="window.location.href = '#contact'"
                 >
                     Contact Info
                 </button>
