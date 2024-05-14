@@ -23,7 +23,7 @@ const Contact = () => {
 
             </div>
             
-
+           
             <div className='contact-info-container'>
                 <img
                 src={email}

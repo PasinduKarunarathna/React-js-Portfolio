@@ -5,6 +5,7 @@ import linkedin from '../Assets/linkedin.png';
 import github from '../Assets/github.png';
 import arrows from '../Assets/arrows.png';
 
+
 const Profile = () => {
 
     const handleArrowClick = () => {
@@ -30,7 +31,7 @@ const Profile = () => {
             <p className='section_text_p2'>Web Developer</p>
             <div className='btn-container'>
                 <button className='btn btn-color-2'
-                onClick="window.open('./')"
+                onClick={() => { window.location.href = './cv.pdf'; }}
                 >
                     Download cv
                 </button>
