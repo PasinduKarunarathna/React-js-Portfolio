@@ -44,12 +44,25 @@
             height: 7vh;
         }
 
+        .contact-info-upper-container {
+            flex-direction: column;
+            gap: 1.5rem;
+            
+        }
+
+
     .contact-info-container {
-        margin: 0;
+        margin: 0;    
     }
+
+  
+    
+    
 
     .contact-info-container p,
     .nav-links li a{
         font-size: 1rem;
+        
     }
 }
+

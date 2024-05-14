@@ -4,7 +4,7 @@ import './about.css'
 import edu from '../Assets/edu.png';
 import topr from '../Assets/topr.png';
 import arrows from '../Assets/arrows.png';
-import Profile from '../Assets/profile.jpeg';
+
 
 
 
@@ -30,11 +30,7 @@ const About = () => {
                         <h3>Experience</h3>
                         <p>MERN stack <br /> React-Native <br /> UI/UX Design <br /> CMS</p>
                     </div>
-                    <img 
-                         src={Profile} 
-                         alt="experience_icon"
-                         className='profile'
-                        />
+                    
                     <div className='details-container'>
                     <img 
                          src={edu} 

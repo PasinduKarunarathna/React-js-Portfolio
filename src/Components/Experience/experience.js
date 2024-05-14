@@ -187,6 +187,18 @@ const Experience = () => {
                              className='cheak_icon'
                              />
                              <div>
+                                <h3>Figma</h3>
+                                <p>Experience</p>
+                             </div>
+                        </article>
+
+                        <article>
+                            <img
+                             src={cheack} 
+                             alt='cheack icon'
+                             className='cheak_icon'
+                             />
+                             <div>
                                 <h3>wordpress</h3>
                                 <p>Experience</p>
                              </div>
