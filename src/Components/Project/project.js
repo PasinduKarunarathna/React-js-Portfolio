@@ -12,6 +12,9 @@ import p5 from '../Assets/p5.jpeg'
 import p6 from '../Assets/p6.jpeg'
 import p7 from '../Assets/p7.png'
 import p8 from '../Assets/p8.png'
+import p10 from '../Assets/p10.png'
+import p11 from '../Assets/p11.png'
+import p12 from '../Assets/p12.png'
 import arrows from '../Assets/arrows.png'
 
 const Project = () => {
@@ -110,9 +113,27 @@ const data = [
         title: 'Login-Singnup',
         img:p5,
         discription:'React js',
-    }
+    },
+
     
 
+    {
+        title: 'HealthyIdea',
+        img:p11,
+        discription:'Wordpress ',
+    },
+
+    {
+        title: 'KaprukaConstructions',
+        img:p12,
+        discription:'Wordpress ',
+    },
+    
+    {
+        title: 'Coffee-Hub',
+        img:p10,
+        discription:'Figma ',
+    }
     
 
     
